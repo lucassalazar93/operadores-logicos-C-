@@ -1,0 +1,14 @@
+D:\Users\practti2\proyectoOper\bin\Debug\net9.0\proyectoOper.exe
+D:\Users\practti2\proyectoOper\bin\Debug\net9.0\proyectoOper.deps.json
+D:\Users\practti2\proyectoOper\bin\Debug\net9.0\proyectoOper.runtimeconfig.json
+D:\Users\practti2\proyectoOper\bin\Debug\net9.0\proyectoOper.dll
+D:\Users\practti2\proyectoOper\bin\Debug\net9.0\proyectoOper.pdb
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.AssemblyInfoInputs.cache
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.AssemblyInfo.cs
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.csproj.CoreCompileInputs.cache
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.dll
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\refint\proyectoOper.dll
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.pdb
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.genruntimeconfig.cache
+D:\Users\practti2\proyectoOper\obj\Debug\net9.0\ref\proyectoOper.dll
