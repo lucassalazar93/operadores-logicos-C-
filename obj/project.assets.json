@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Users\\practti2\\operadorRelacional\\operadorRelacional.csproj",
       "projectName": "operadorRelacional",
       "projectPath": "D:\\Users\\practti2\\operadorRelacional\\operadorRelacional.csproj",
       "packagesPath": "D:\\Users\\practti2\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\practti2\\operadorRelacional\\obj\\",
+=======
+      "projectUniqueName": "D:\\Users\\practti2\\proyectoOper\\proyectoOper.csproj",
+      "projectName": "proyectoOper",
+      "projectPath": "D:\\Users\\practti2\\proyectoOper\\proyectoOper.csproj",
+      "packagesPath": "D:\\Users\\practti2\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\practti2\\proyectoOper\\obj\\",
+>>>>>>> b0b1389685812054a974dee02f1587ff6fdc6e36
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

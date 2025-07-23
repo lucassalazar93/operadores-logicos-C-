@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rrjyVPiorxI=",
   "success": true,
   "projectFilePath": "D:\\Users\\practti2\\operadorRelacional\\operadorRelacional.csproj",
+=======
+  "dgSpecHash": "8B0sUH0zSJ8=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\practti2\\proyectoOper\\proyectoOper.csproj",
+>>>>>>> b0b1389685812054a974dee02f1587ff6fdc6e36
   "expectedPackageFiles": [],
   "logs": []
 }
