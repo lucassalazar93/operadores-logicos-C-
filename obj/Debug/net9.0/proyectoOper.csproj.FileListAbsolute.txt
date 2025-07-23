@@ -12,3 +12,4 @@ D:\Users\practti2\proyectoOper\obj\Debug\net9.0\refint\proyectoOper.dll
 D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.pdb
 D:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.genruntimeconfig.cache
 D:\Users\practti2\proyectoOper\obj\Debug\net9.0\ref\proyectoOper.dll
+d:\Users\practti2\proyectoOper\obj\Debug\net9.0\proyectoOper.sourcelink.json
