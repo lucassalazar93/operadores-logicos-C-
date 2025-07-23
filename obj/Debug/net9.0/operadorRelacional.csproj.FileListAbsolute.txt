@@ -1,0 +1,14 @@
+D:\Users\practti2\operadorRelacional\bin\Debug\net9.0\operadorRelacional.exe
+D:\Users\practti2\operadorRelacional\bin\Debug\net9.0\operadorRelacional.deps.json
+D:\Users\practti2\operadorRelacional\bin\Debug\net9.0\operadorRelacional.runtimeconfig.json
+D:\Users\practti2\operadorRelacional\bin\Debug\net9.0\operadorRelacional.dll
+D:\Users\practti2\operadorRelacional\bin\Debug\net9.0\operadorRelacional.pdb
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\operadorRelacional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\operadorRelacional.AssemblyInfoInputs.cache
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\operadorRelacional.AssemblyInfo.cs
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\operadorRelacional.csproj.CoreCompileInputs.cache
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\operadorRelacional.dll
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\refint\operadorRelacional.dll
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\operadorRelacional.pdb
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\operadorRelacional.genruntimeconfig.cache
+D:\Users\practti2\operadorRelacional\obj\Debug\net9.0\ref\operadorRelacional.dll
